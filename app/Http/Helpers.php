@@ -2,8 +2,9 @@
 
 class Helpers
 {
-    /**
+   /**
      * Create folder
+     *
      * @param $path
      * @return bool
      */
@@ -12,6 +13,8 @@ class Helpers
     }
 
     /**
+     * Send email
+     *
      * @param $template
      * @param $data
      * @param $attributes
